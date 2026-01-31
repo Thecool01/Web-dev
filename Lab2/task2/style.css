@@ -1,0 +1,37 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    background: #fff;
+    display: flex;
+}
+
+.instagram-text {
+    width: 1420px;
+    z-index: 2;
+}
+
+.text {
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 784px;
+    height: 200px;
+
+    text-align: center;
+    font-size: 2em;
+}
+
+.instagram-stories {
+    width: 450px;
+    margin: 0 480px;
+}
+
+.logo {
+    width: 70px;
+    margin-left: 30px;
+    margin-top: 30px;
+    position: relative;
+    z-index: 1;
+}
+
+login {
+    width: 350px;
+}
